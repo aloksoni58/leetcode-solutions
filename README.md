@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aloksoni58/leetcode-solutions/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aloksoni58/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

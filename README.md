@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/aloksoni58/leetcode-solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->

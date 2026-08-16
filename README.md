@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aloksoni58/leetcode-solutions/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/aloksoni58/leetcode-solutions/tree/master/0520-detect-capital) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aloksoni58/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

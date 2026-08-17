@@ -1,0 +1,18 @@
+class Solution {
+    public int maxProduct(int n) {
+        
+        int max1 = n%10;
+        int max2 = 0;
+        n/=10;
+        while(n > 0) {
+            if(n%10 >= max1) {
+                max2 = max1;
+                max1 = n%10;
+            } else if(n%10 > max2 && n%10 < max1) {
+                max2 = n%10;
+            }
+            n/=10;
+        }
+        return max1*max2;
+    }
+}

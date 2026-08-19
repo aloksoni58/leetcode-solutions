@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aloksoni58/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/aloksoni58/leetcode-solutions/tree/master/0520-detect-capital) |
 ## Hash Table
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/aloksoni58/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

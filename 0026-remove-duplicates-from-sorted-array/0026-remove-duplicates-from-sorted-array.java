@@ -8,7 +8,7 @@ class Solution {
             if(nums[i] == nums[j]) {
                 j++;
             } else {
-                swap(nums, i+1, j);
+                nums[i+1] = nums[j];
                 i++;
                 j++;
             }
@@ -16,9 +16,5 @@ class Solution {
         return i+1;
     }
 
-    public void swap(int[] a, int i, int j) {
-        int temp = a[i];
-        a[i] = a[j];
-        a[j] = temp;
-    }
+   
 }

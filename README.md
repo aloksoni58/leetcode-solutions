@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aloksoni58/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aloksoni58/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/aloksoni58/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aloksoni58/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->

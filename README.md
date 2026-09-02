@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aloksoni58/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aloksoni58/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/aloksoni58/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |

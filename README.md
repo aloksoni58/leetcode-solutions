@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aloksoni58/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aloksoni58/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/aloksoni58/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aloksoni58/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aloksoni58/leetcode-solutions/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/aloksoni58/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/aloksoni58/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |

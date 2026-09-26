@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/aloksoni58/leetcode-solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/aloksoni58/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2390-removing-stars-from-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aloksoni58/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [2390-removing-stars-from-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |

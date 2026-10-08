@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/aloksoni58/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aloksoni58/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2390-removing-stars-from-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aloksoni58/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/aloksoni58/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/aloksoni58/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Linked List
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aloksoni58/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/aloksoni58/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/aloksoni58/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation

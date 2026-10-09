@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aloksoni58/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2390-removing-stars-from-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3163-string-compression-iii](https://github.com/aloksoni58/leetcode-solutions/tree/master/3163-string-compression-iii) |
 ## Hash Table
 |  |
 | ------- |

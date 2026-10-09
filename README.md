@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aloksoni58/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/aloksoni58/leetcode-solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/aloksoni58/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/aloksoni58/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aloksoni58/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aloksoni58/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aloksoni58/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/aloksoni58/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/aloksoni58/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aloksoni58/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |

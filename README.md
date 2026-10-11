@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2404-most-frequent-even-element](https://github.com/aloksoni58/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aloksoni58/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/aloksoni58/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aloksoni58/leetcode-solutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/aloksoni58/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aloksoni58/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aloksoni58/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2109-adding-spaces-to-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3163-string-compression-iii](https://github.com/aloksoni58/leetcode-solutions/tree/master/3163-string-compression-iii) |
 ## Hash Table
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/aloksoni58/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/aloksoni58/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/aloksoni58/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -1,9 +1,6 @@
 class Solution {
     public String longestPalindrome(String s) {
         
-        if(s.length() == 1) {
-            return s;
-        }
         int maxLength = 0, left = 0, right = 0;
         for(int i = 0; i < s.length(); i++) {
             int oddSize = expandAroundCentre(s, i, i);
@@ -11,12 +8,16 @@ class Solution {
             int temp = oddSize > evenSize ? oddSize : evenSize;
             if(temp > maxLength) {
                 maxLength = temp;
-                left = i - (temp-1) / 2;
-                right = i + temp / 2 ;
+                if(oddSize > evenSize) {
+                    left = i - oddSize / 2;
+                    right = i + oddSize / 2 + 1;
+                } else {
+                    left = i - (evenSize / 2) + 1;
+                    right = i + evenSize / 2 + 1;
+                }
             }
         }
-        return s.substring(left, right + 1);
-
+        return s.substring(left, right);
     }
 
     public int expandAroundCentre(String s, int start, int end) {
@@ -24,6 +25,6 @@ class Solution {
             start--;
             end++;
         }
-        return end-start-1;
+        return end - start - 1;
     }
 }

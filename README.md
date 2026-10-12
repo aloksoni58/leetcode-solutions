@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aloksoni58/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/aloksoni58/leetcode-solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/aloksoni58/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aloksoni58/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/aloksoni58/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aloksoni58/leetcode-solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aloksoni58/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aloksoni58/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aloksoni58/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aloksoni58/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aloksoni58/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

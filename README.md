@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aloksoni58/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aloksoni58/leetcode-solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/aloksoni58/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/aloksoni58/leetcode-solutions/tree/master/0415-add-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/aloksoni58/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/aloksoni58/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aloksoni58/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aloksoni58/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aloksoni58/leetcode-solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/aloksoni58/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/aloksoni58/leetcode-solutions/tree/master/0704-binary-search) |
 ## Greedy
 |  |

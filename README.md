@@ -113,7 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aloksoni58/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0707-design-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0707-design-linked-list) |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -173,9 +173,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aloksoni58/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/aloksoni58/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/aloksoni58/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/aloksoni58/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |

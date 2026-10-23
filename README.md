@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/aloksoni58/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aloksoni58/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aloksoni58/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0707-design-linked-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aloksoni58/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/aloksoni58/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aloksoni58/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aloksoni58/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aloksoni58/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aloksoni58/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aloksoni58/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/aloksoni58/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |

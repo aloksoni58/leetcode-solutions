@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/aloksoni58/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/aloksoni58/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aloksoni58/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/aloksoni58/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
